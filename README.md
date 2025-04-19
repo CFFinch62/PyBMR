@@ -1,3 +1,5 @@
+![Basal Metabolic Rate   Weight Loss Calculator_001](https://github.com/user-attachments/assets/205863c3-ad8e-43aa-88eb-b0778c2181ba)
+
 # BMR Calculator
 
 A PyQt6-based application for calculating Basal Metabolic Rate (BMR) and weight loss projections.
